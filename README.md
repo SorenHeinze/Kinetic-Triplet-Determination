@@ -10,7 +10,7 @@ Regular data-fitting did NOT yield the parameters needed to simulate the curing.
 Hence, all assumed knowledge was abandoned and the exact isoconversional method was used to determine the needed information.
 
 These programs are NOT the programs I used while I worked on my PhD, but they use the same method and yield the same results.
-Otherwise are these programs much better structured and I offer to the user more options and a much nicer interface.
+Otherwise are these programs much better structured (and commented) and I offer to the user more options and a much nicer interface.
 
 ## Description
 These are python3 programs. The main functions are:

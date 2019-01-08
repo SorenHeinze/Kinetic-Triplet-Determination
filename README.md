@@ -33,7 +33,7 @@ Put all .py-files into one folder and simply run the programs in a command line 
 
 All programs can be run separately by simply calling them. However, it is probably more convenient to call < main.py >. The latter offers an interface to the user in which each program can be chosen.
 
-Numpy and SciPy need to be installed for these programs work.
+Numpy and SciPy need to be installed for these programs to work.
 
 These programs were tested under Debian 9.6 . However, they should work also under proprietary operating systems. 
 
